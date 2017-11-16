@@ -17,13 +17,13 @@ Example Usage:
 * python LogIdea.py --todo
 * python LogIdea.py --namespace TestIdeas --idea <Idea without quotes>
 
-optional arguments:
-  -h, --help            show this help message and exit
-  --namespace NAMESPACE
-                        This is the work space for the idea. The namespace
-                        contains the following: - idea.txt - time stamped idea
-                        logs - log.txt - normal idea logs
-  --idea IDEA [IDEA ...]
-                        Idea to be logged, clustered and scheduled
-  --todo                Lists tasks to do for enahancing this utility
+optional arguments:  
+  -h, --help            show this help message and exit  
+  --namespace NAMESPACE  
+                        This is the work space for the idea. The namespace  
+                        contains the following: - idea.txt - time stamped idea  
+                        logs - log.txt - normal idea logs  
+  --idea IDEA [IDEA ...]  
+                        Idea to be logged, clustered and scheduled  
+  --todo                Lists tasks to do for enahancing this utility  
 
