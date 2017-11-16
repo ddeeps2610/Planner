@@ -29,7 +29,7 @@ class Clusterer():
   # Clusters pickle file name
   clustersPickleFile = 'clusters.pkl'
  
-  def __init__(self, train = False):
+  def __init__(self, train = False, ideasFile=None):
     """
     Initializes data with existing clusters.
     """
@@ -43,8 +43,8 @@ class Clusterer():
         self.trained = True
     else:
         self.clusters = dict()
-        if train:
-            self.generateClusters('input.txt')
+        if train and os.path.exists(ideasFile):
+            self.generateClusters(ideasFile)
 
     # Update the new cluster ID
     self.newCID = max(self.clusters.keys())

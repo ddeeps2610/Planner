@@ -1,0 +1,11 @@
+2017-11-15 23:40:25.686141 This is the first test idea 
+2017-11-15 23:40:35.207412 This is the first test idea 
+2017-11-15 23:52:34.070420 Play ultimate frisbee whenever you want. 
+2017-11-15 23:53:29.130882 Play ultimate frisbee whenever you want. 
+2017-11-15 23:54:12.264147 Start learning to play Golf. 
+2017-11-15 23:54:50.505164 Study deap learning models 
+2017-11-15 23:55:05.506591 Study deap reinforcement learning models 
+2017-11-15 23:55:52.012193 Study Bayesian statistical models 
+2017-11-16 00:34:40.511188 Generate deep learning based clustering algorithms 
+2017-11-16 00:38:54.329735 Generate deep learning based clustering algorithms 
+2017-11-16 00:45:39.851864 Generate deep learning based clustering algorithms 
