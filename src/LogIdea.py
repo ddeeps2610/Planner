@@ -9,7 +9,7 @@ import argparse
 import textwrap
 
 
-ideasPath = './Ideas/'
+ideasPath = '../Ideas/'
 ideaFileName = 'ideas.txt'
 logFileName = 'log.txt'
 
@@ -22,10 +22,11 @@ def readArgs():
         formatter_class=argparse.RawDescriptionHelpFormatter,
         description=textwrap.dedent('''\
         This script performs the following set of actions.
-        - Reads the idea(logged input string)
-        - clusters the idea with existing ideas.
-        - Schedules the idea to Google Calendar
-        - Pushes the idea to Git hub to source control the idea
+        * Reads the idea(logged input string)
+        * clusters the idea with existing ideas.
+        * Schedules the idea to Google Calendar
+        * Pushes the idea to Git hub to source control the idea
+
         Example Usage: 
         * python LogIdea.py -h
         * python LogIdea.py --todo
