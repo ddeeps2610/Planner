@@ -27,3 +27,19 @@ optional arguments:
                         Idea to be logged, clustered and scheduled  
   --todo                Lists tasks to do for enahancing this utility  
 
+
+File structure:
+src - 
+    - Contains all the source code
+    - src/calendar - contains all the google calendar api related code. 
+    - Some secrets are not added since it is my(Deepak's credentials). 
+    - Need to create test credentials and use.
+
+Tasks - 
+    - Contains the list of tasks for Planner. 
+    - This is the project management document.
+
+Ideas - 
+    - Contains all the namespaces
+    - The primary one in this is TestIdeas which contains all test tasks
+
