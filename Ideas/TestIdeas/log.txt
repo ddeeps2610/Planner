@@ -15,3 +15,12 @@
 2017-11-19 16:59:53.158570 This is some idea I want to task 
 2017-11-19 17:02:54.187932 I want to play golf 
 2017-11-26 13:00:01.820529 Test idea! 
+2017-11-26 13:57:38.269971 Learn Tensorflow 
+2017-11-26 13:59:40.541539 Learn wall climbing 
+2017-11-26 13:59:52.737083 Learn parkour 
+2017-11-26 14:00:15.188872 Learn to play piano or violin 
+2017-11-26 14:00:32.915630 Implement planner 
+2017-11-26 14:00:51.722699 Play badminton 
+2017-11-26 14:01:02.240051 Play badminton tonight 
+2017-11-26 14:01:31.496108 Play badminton on Tuesdays and Thursdays and Fridays 
+2017-11-26 14:02:05.372661 Complete pilot training 
