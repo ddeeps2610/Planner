@@ -9,3 +9,9 @@
 2017-11-16 00:34:40.511188 Generate deep learning based clustering algorithms 
 2017-11-16 00:38:54.329735 Generate deep learning based clustering algorithms 
 2017-11-16 00:45:39.851864 Generate deep learning based clustering algorithms 
+2017-11-16 00:53:12.516324 Learn to play chess 
+2017-11-16 00:53:55.900251 Learn to play chess 
+2017-11-16 00:54:07.980327 Learn to play chess 
+2017-11-19 16:59:53.158570 This is some idea I want to task 
+2017-11-19 17:02:54.187932 I want to play golf 
+2017-11-26 13:00:01.820529 Test idea! 
